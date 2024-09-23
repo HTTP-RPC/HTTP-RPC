@@ -1,0 +1,3 @@
+rootProject.name = 'HTTP-RPC'
+
+include 'httprpc', 'httprpc-client', 'httprpc-server'

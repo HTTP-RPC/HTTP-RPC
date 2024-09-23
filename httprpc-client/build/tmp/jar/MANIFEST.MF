@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: httprpc-client
+Implementation-Version: 9.6
+

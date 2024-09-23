@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: httprpc
-Implementation-Version: 9.6
-
